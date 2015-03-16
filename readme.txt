@@ -29,6 +29,7 @@ See the [screenshots](https://wordpress.org/plugins/agp-ajax-taxonomy-filter/scr
 The plugin includes template "templates/atf.php". 
 You can copy this template in your active theme and customize it for your needs. 
 Path to the template inside the active theme:
+
 [ActiveTheme]/templates/agp-ajax-taxonomy-filter/atf.php
 
 = How can I style the widget content? =
@@ -36,6 +37,7 @@ Path to the template inside the active theme:
 The plugin includes CSS file "assets/css/style.css". 
 You can copy this file in your active theme and customize it for your needs. 
 Path to the styles inside the active theme:
+
 [ActiveTheme]/templates/agp-ajax-taxonomy-filter/assets/css/style.css
 
 == Screenshots ==
