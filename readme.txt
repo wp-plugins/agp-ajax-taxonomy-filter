@@ -45,3 +45,8 @@ Path to the styles inside the active theme:
 1. Settings of the widget
 2. Result of the widget
 
+== Changelog ==
+
+= 1.0.0 =
+
+* Initial release.
