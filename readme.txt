@@ -47,6 +47,9 @@ Path to the styles inside the active theme:
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0.1 =
+* Minor bugfixing.
 
+
+= 1.0.0 =
 * Initial release.
